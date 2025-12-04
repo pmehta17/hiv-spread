@@ -13,7 +13,7 @@ Includes early data cleaning, demographic filtering, and preliminary attempts at
 Replaced by Project_v2.ipynb but kept for transparency of development.
 
 4. Project_v2.ipynb
-Main analysis notebook for the final project.
+Main analysis notebook for the final project. All relevant code for generating figures can be found starting on line [210], this code references variables established in early sections as it retains code that was not deleted upon advice from Professor Landry.
 This notebook contains the full analysis route used in the report, including:
 Loading and cleaning the HIV network data
 Constructing demographic-specific subnetworks (age, race, sex)
