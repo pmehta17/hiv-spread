@@ -4,7 +4,6 @@ Repository Structure
 Raw data file obtained from the ICPSR NAHDAP HIV Transmission Network dataset (CO90).
 Contains demographic attributes and contact edges (sexual and needle-sharing) for ~50,000 individuals from 1988–2001.
 Used as the source dataset for all simulations.
-
 NOTE: 22140-0002-Data.tsv was also used for initial network creation, however file was too large to upload and emailed by Nikhil
 
 3. Project.ipynb
